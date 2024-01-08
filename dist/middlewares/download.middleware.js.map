@@ -1,0 +1,1 @@
+{"version":3,"file":"download.middleware.js","sourceRoot":"","sources":["../../src/middlewares/download.middleware.ts"],"names":[],"mappings":";;;AAAA,qCAAuC;AAEvC,MAAM,QAAQ,GAAO,MAAA,OAAO,CAAC,GAAG,CAAC,SAAS,mCAAI,6EAA6E,CAAC;AAE5H,MAAM,MAAM,GAAG,IAAI,sBAAY,CAAC,QAAQ,EAAE;IACxC,UAAU,EAAE,SAAS;CACtB,CAAC,CAAC"}
